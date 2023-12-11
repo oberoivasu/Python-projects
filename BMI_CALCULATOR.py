@@ -1,5 +1,4 @@
 #Write a program that interprets the Body Mass Index (BMI) based on a user's weight and height.
-
 #It should tell them the interpretation of their BMI based on the BMI value.
 
 #Under 18.5 they are underweight
@@ -10,7 +9,7 @@
 
 # Enter your height in meters e.g., 1.55
 height = float(input())
-# Enter your weight in kilograms e.g., 72
+#Enter your weight in kilograms e.g., 72
 weight = int(input())
 
 # BMI calculator
